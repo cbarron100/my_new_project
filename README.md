@@ -10,17 +10,15 @@ Final project for the Building AI course
 
 My AI project aims to identify the quality of wine based on the chemical attributes in a data set. It will try to do this using the Nearest Neighbour algorithm; at least that is the idea from the start.
 
-From the given attributes it will choose a value one a list of values. The higher the value the better the wine. 
+From the given attributes it will choose a quality value to describe how good the wine is. The higher the value the better the wine. The value range from 1 to 10, but this could change.
 
 ## Background
 
 <!-- Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting? -->
 
-I think it would not solve any specific problem more just aid people who want to make their own wine and maybe see how good it is based on these characteristics. This project could also be used by people who have their own winery and maybe do not want to spend money on someone to check how good the wine is. It might not be a specific or frequent problem. But for people who might need it the solution could be very useful. 
+I think it would not solve any specific problem more just aid people who want to make their own wine, and maybe see how good it is based on these characteristics. This project could also be used by people who have their own winery, who maybe do not want to spend money on expert to check how good the wine is. It might not be a specific or frequent problem, however for people who might need it the solution could be very useful.
 
 My dad has a winery, or will start making wine soon, maybe I could test how well it predicts the quality with his wine. 
-
-
 
 ## How is it used?
 
