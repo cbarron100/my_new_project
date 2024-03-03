@@ -16,7 +16,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 #%%
 
 data = np.loadtxt("WineQualityRed.csv", delimiter= ";", skiprows = 1)
-
+print("This is my first AI model creation")
 x_data = data[ : , :-1]
 y_data = data[ : , -1]
 x_train, x_test, y_train, y_test = train_test_split(x_data, y_data, test_size= 0.2, random_state=6)
