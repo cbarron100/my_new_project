@@ -65,18 +65,6 @@ Like I said in the summary, I will try and use the Nearest Neighbour method to t
 
 #### The data summary for the red data set
 
-|             | Fixed Acidity   | Volatile Acidity   | Citric Acid   | Residual Sugar   | Chlorides   | Free Sulfur Dioxide   | Total Sulfur Dioxide   | Density   | pH   | Sulphates   | Alcohol   | Quality   |
-|:-----------:|:---------------:|:-------------------:|:-------------:|:-----------------:|:-----------:|:----------------------:|:-----------------------:|:---------:|:---:|:-----------:|:---------:|:---------:|
-| Count       | 1599            | 1599                | 1599          | 1599              | 1599        | 1599                 | 1599                  | 1599      | 1599| 1599        | 1599      | 1599      |
-| Mean        | 8.31964         | 0.527821            | 0.270976      | 2.53881           | 0.0874665   | 15.8749              | 46.4678               | 0.996747 | 3.31111| 0.658149   | 10.423    | 5.63602   |
-| Std         | 1.7411          | 0.17906             | 0.194801      | 1.40993           | 0.0470653   | 10.4602              | 32.8953               | 0.00188733| 0.154386| 0.169507   | 1.06567   | 0.807569  |
-| Min         | 4.6             | 0.12                | 0             | 0.9               | 0.012       | 1                   | 6                     | 0.99007  | 2.74    | 0.33       | 8.4       | 3         |
-| 25%         | 7.1             | 0.39                | 0.09          | 1.9               | 0.07        | 7                   | 22                    | 0.9956   | 3.21    | 0.55       | 9.5       | 5         |
-| 50%         | 7.9             | 0.52                | 0.26          | 2.2               | 0.079       | 14                  | 38                    | 0.99675  | 3.31    | 0.62       | 10.2      | 6         |
-| 75%         | 9.2             | 0.64                | 0.42          | 2.6               | 0.09        | 21                  | 62                    | 0.997835 | 3.4     | 0.73       | 11.1      | 6         |
-| Max         | 15.9            | 1.58               | 1             | 15.5              | 0.611       | 72                  | 289                   | 1.00369  | 4.01    | 2          | 14.9      | 8         |
-
-
 <!-- This is the markdown template for the final project of the Building AI course, 
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
